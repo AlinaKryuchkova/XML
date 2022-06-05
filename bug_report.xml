@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bug_report>
+  <summary> Краткое описание проблемы </summary>
+  <product> Продукт </product>
+  <platform> Платформа </platform>
+	<status> Статус </status>
+	<priorety> Приоритет </priorety>
+	<severity> Серьезность </severity>
+	<steps> Шаги воспроизведения </steps>
+	<actual_result> Фактический результат </actual_result>
+	<expected_result> Ожидаемый результат </expected_result>
+  <attachmant> Прикрепленные файлы </attachmant>
+</bug_report>
